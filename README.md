@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/Fb66BKTB/c2d0a468958a6d8caaf574cd29e0331a.jpg" width="300" align="right">
+<img src="https://i.ibb.co/Fb66BKTB/c2d0a468958a6d8caaf574cd29e0331a.jpg" width="500" align="center">
 <h1 align="center">hi, i'm guon220</h1>
 <h3 align="center">Python dev</h3>
 
